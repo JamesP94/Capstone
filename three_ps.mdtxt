@@ -1,3 +1,14 @@
+2/6/24
+Progress- I finally got my data. The data actually looks great and is very clean, this will be a purely analysis project. After looking over the data I reformulated some planning and did some low level additional column creation using PowerBI. I also got all data uploaded to a repository and created jupyter notebook files for both data files I received.
+
+Problems- I'm still feeling slightly behind, but after seeing my data things are feeling more manageable and I'm excited to get to work on it. The only other problem I've had is I haven't used PowerBI in about a year so I'm refreshing myself on some of that.
+
+Plan- This next week I plan on trying to run a few regression and possibly clustering models on the data. The clustering models depend on how easily I can encode some of the data. I also plan on starting some of the text mining process on the free response data this week or next. I plan on a big uptick in hours put into this project in the coming weeks.
+
+Hours- 12
+
+
+
 1/30/24
 Progress- I had a meeting with Sun Country Airlines (SCA) today and should recieve the data for my project by the end of the week. The meeting was beneficial and set expectations for both parties. Signed an NDA to be given access to the data.
 
