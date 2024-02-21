@@ -1,3 +1,12 @@
+2/20/24
+Progress- Had another meeting with SCA this week. They gave me some more data that could add something interesting to my project. This week I began looking at problem flight routes by comparing which routes had the worst and the best customer ratings and doing some text mining on a per flight route basis to better understand what people are saying about polarizing routes.
+
+Problems- I've been probing my data so far without actually doing any hardcore modeling up to this point. My data is a lot of text data and categorical variables, encoding the categorical variables will be a process, but once that is completed modeling will become a lot easier.
+
+Plan- I have a meeting with you Thursday and I mainly wanted to discuss the modeling phase of this project. I have this weekend set aside to focus on modeling and working through this phase of the project. After this weekend, will be very telling regarding progress and possible results.
+
+Hours- 8
+
 2/13/24
 Progress- completed descriptive stats for my dataset. Had a brainstorming session to come up with interesting ways to analyse the data. Began the text mining portion and model building portion of my analysis. Created columns to analyse seasonality.
 
