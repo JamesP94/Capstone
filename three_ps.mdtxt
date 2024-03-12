@@ -1,3 +1,10 @@
+3/12/24
+Progress- Should have all of my modeling done before next week so I can focus solely on writing and visualization creation. I discussed my latest major problem this week with a few people and came to a conclusion about how to handle it.
+
+Problems- I ran into an issue this week joining the review data and the ops data I received. Some of the dates didn't line up between the two. I created a file of the rows that didn't join and will change the date on those so the dates line up and the files will join correctly.
+
+Plan- I'm now working on joining the files and finishing the regression model.Once I get results for that, I'll start in on the written report and visualizations.
+
 3/5/24
 Progress- LDA was a successs! I'm still fine tuning it a little, but after running an LDA analysis on the dataset, the results were interesting and exactly what I was looking to accomplish. I'm working on the regression model now and should have that done by the beginning of next week.
 
