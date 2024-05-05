@@ -6,6 +6,7 @@ The primary objective of this analysis is to understand and improve customer sat
 
 # Datasets
 Survey Response Dataset: A comprehensive dataset consisting of approximately 68,000 customer responses rating their satisfaction on a scale of 1 to 5, along with additional comments and flight-specific details.
+
 Operations Dataset: Contains operational details for all SCA flights in 2023, including flight numbers, dates, and delay information.
 
 # Methods
@@ -13,8 +14,11 @@ The analysis is segmented into several phases:
 
 Data Preprocessing: Cleaning and preparing survey and operations data for analysis.
 Exploratory Data Analysis: Initial examination of the data to understand distributions and relationships.
+
 Text Analysis: Processing free-response text to extract common themes using natural language processing techniques.
+
 Statistical Modeling: Constructing regression models to predict customer satisfaction based on identified factors.
+
 Topic Modeling: Employing Latent Dirichlet Allocation to discover prevalent topics within customer feedback.
 
 # Results
